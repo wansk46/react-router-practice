@@ -4,7 +4,7 @@ export default class AboutPage extends Component {
   render() {
     return (
       <div>
-        <h1>about</h1>
+        <h1>About Page</h1>
       </div>
     )
   }
